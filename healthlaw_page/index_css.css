@@ -1,0 +1,36 @@
+#login_box {
+    border: solid;
+    border-width: 1.5px;
+}
+
+#login_grid {
+    color:cadetblue;
+    font-weight: 600;
+    font-size: 3vw;
+    font-family: serif;
+
+    text-align: center;
+
+    margin: 2vw;
+}
+
+#login_button {
+    text-align: center;
+
+    margin: 2vw;
+}
+
+#login_name {
+    margin: 2vw;
+}
+
+#upper_bar {
+    color: rgb(50, 81, 193);
+    font-size: 2.5vw;
+    text-align: left;
+}
+
+
+#empty_box {
+    margin: 3vh;
+}
